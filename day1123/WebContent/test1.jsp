@@ -11,5 +11,8 @@
 	<h2>世界</h2>
 	<a>哈哈哈</a>
 	<span>呵呵</span>
+		<input type="submit" value="登陆">
+	<input type="submit" value="登陆">
+	<input type="submit" value="登陆">
 </body>
 </html>
