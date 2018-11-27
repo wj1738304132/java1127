@@ -10,5 +10,9 @@
 	<h1>你好</h1>
 	<h2>世界</h2>
 	<a>哈哈哈</a>
+<<<<<<< HEAD
+=======
+	<span>呵呵</span>
+>>>>>>> branch 'master' of https://github.com/wj1738304132/java1127.git
 </body>
 </html>
